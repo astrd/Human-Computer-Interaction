@@ -1,0 +1,4 @@
+001;Chaqueta;la chaqueta de invierno;Zara;12.3
+002;Camiseta;camiseta patatodos;Primark;14.5
+003;Tacones;tata coco lagones;Chanel;80.5
+004;Bufanda;buf wtf;HM;5.5
